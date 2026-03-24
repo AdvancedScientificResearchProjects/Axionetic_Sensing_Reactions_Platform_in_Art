@@ -3,9 +3,9 @@
 
 <div align="center">
 
-**Objective Art Evaluation System Through Consciousness State Imprinting Capability**
+**Objective Art Evaluation System Through Consciousness State Imprinting in Material and Immaterial Carriers**
 
-**Система Объективной Оценки Произведений Искусства Через Способность Запечатлевать Состояния Сознания**
+**Система Объективной Оценки Произведений Искусства Через Запечатлевание Состояний Сознания в Материальных и Нематериальных Носителях**
 
 [![Status](https://img.shields.io/badge/status-active-development-brightgreen.svg)](https://github.com/AdvancedScientificResearchProjects/Axionetic_Sensing_Reactions_Platform_in_Art)
 [![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/AdvancedScientificResearchProjects/Axionetic_Sensing_Reactions_Platform_in_Art)
@@ -88,11 +88,20 @@
 ```mermaid
 flowchart LR
     A[Artist / Художник] -->|Creates art / Создаёт искусство| B[Consciousness State / Состояние Сознания]
-    B -->|Imprinted in / Запечатлевается в| C[Material Carrier / Материальный Носитель]
+    B -->|Imprinted in / Запечатлевается в| C[Material OR Immaterial Carrier / Материальный ИЛИ Нематериальный Носитель]
     C -->|Measured by / Измеряется| D[Neurointerfaces / Нейроинтерфейсы]
     D -->|Data analyzed by / Данные анализируются| E[AI/ML Models / Модели ИИ/МО]
     E -->|Objective score / Объективная оценка| F[Artwork Value / Ценность Искусства]
 ```
+
+### 📊 Carrier Types / Типы Носителей
+
+| Type / Тип | Examples / Примеры | Measurement / Измерение |
+|-----------|-------------------|------------------------|
+| **Material / Материальный** | Canvas, sculpture, paper / Холст, скульптура, бумага | Microscopy, spectroscopy |
+| **Digital / Цифровой** | NFT, blockchain, VR/AR / NFT, блокчейн, VR/AR | Hash verification, metadata |
+| **Energetic / Энергетический** | EM fields, quantum states / ЭМ поля, квантовые состояния | EMF measurement, quantum sensors |
+| **Informational / Информационный** | Consciousness patterns / Паттерны сознания | AI pattern analysis |
 
 ### 📊 Evaluation Criteria / Критерии Оценки
 
