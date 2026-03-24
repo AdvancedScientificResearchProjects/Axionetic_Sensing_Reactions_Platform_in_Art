@@ -3,9 +3,9 @@
 
 <div align="center">
 
-**Objective Art Evaluation System Through Consciousness State Imprinting in Material and Immaterial Carriers**
+**Objective Art Evaluation System Through Capability of Consciousness State Imprinting in Material and Immaterial Carriers Capable of Transferring These States Between Biological Entities**
 
-**Система Объективной Оценки Произведений Искусства Через Запечатлевание Состояний Сознания в Материальных и Нематериальных Носителях**
+**Система Объективной Оценки Произведений Искусства Через Способность Запечатлевать Состояния Сознания в Материальных и Нематериальных Носителях, Способных Переносить Эти Состояния от Одного Биологического Объекта к Другому**
 
 [![Status](https://img.shields.io/badge/status-active-development-brightgreen.svg)](https://github.com/AdvancedScientificResearchProjects/Axionetic_Sensing_Reactions_Platform_in_Art)
 [![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/AdvancedScientificResearchProjects/Axionetic_Sensing_Reactions_Platform_in_Art)
