@@ -3,9 +3,9 @@
 
 <div align="center">
 
-**Consciousness State Objectification & Inter-Civilization Art/Technology Exchange System**
+**Objective Art Evaluation System Through Consciousness State Imprinting Capability**
 
-**Система Объективизации Состояний Сознания и Межцивилизационного Обмена Искусство/Технологии**
+**Система Объективной Оценки Произведений Искусства Через Способность Запечатлевать Состояния Сознания**
 
 [![Status](https://img.shields.io/badge/status-active-development-brightgreen.svg)](https://github.com/AdvancedScientificResearchProjects/Axionetic_Sensing_Reactions_Platform_in_Art)
 [![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/AdvancedScientificResearchProjects/Axionetic_Sensing_Reactions_Platform_in_Art)
@@ -22,11 +22,10 @@
 
 ## 📖 TABLE OF CONTENTS / СОДЕРЖАНИЕ
 
-- [🎯 Vision & Mission / Видение и Миссия](#-vision--mission--видение-и-миссия)
+- [🎯 System Purpose / Назначение Системы](#-system-purpose--назначение-системы)
 - [🔥 Key Innovation / Ключевая Инновация](#-key-innovation--ключевая-инновация)
-- [🌍 Strategic Purpose / Стратегическая Цель](#-strategic-purpose--стратегическая-цель)
-- [💱 Inter-Civilization Exchange / Межцивилизационный Обмен](#-inter-civilization-exchange--межцивилизационный-обмен)
-- [📊 Market Analysis / Анализ Рынка](#-market-analysis--анализ-рынка)
+- [🧠 How It Works / Как Это Работает](#-how-it-works--как-это-работает)
+- [📊 Objective Evaluation / Объективная Оценка](#-objective-evaluation--объективная-оценка)
 - [🏛️ Art Marketplaces / Арт-Площадки](#-art-marketplaces--арт-площадки)
 - [📚 Scientific Foundation / Научная Основа](#-scientific-foundation--научная-основа)
 - [📁 Documentation / Документация](#-documentation--документация)
@@ -36,26 +35,27 @@
 
 ---
 
-## 🎯 VISION & MISSION / ВИДЕНИЕ И МИССИЯ
+## 🎯 SYSTEM PURPOSE / НАЗНАЧЕНИЕ СИСТЕМЫ
 
 <div align="center">
 
-### 👁️ Vision / Видение
+### **Objective Art Evaluation Through Consciousness State Imprinting**
 
-**A global consciousness state exchange where art becomes the universal currency for inter-civilization trade.**
-
-**Глобальная биржа состояний сознания, где искусство становится универсальной валютой для межцивилизационной торговли.**
-
-### 🎯 Mission / Миссия
+### **Объективная Оценка Искусства Через Запечатлевание Состояний Сознания**
 
 </div>
 
-| Component / Компонент | Description / Описание |
-|----------------------|----------------------|
-| **🔬 Objectification / Объективизация** | Record consciousness states in material/digital carriers / Запись состояний сознания в материальные/цифровые носители |
-| **💰 Valuation / Оценка** | Objective neurophysiological art evaluation / Объективная нейрофизиологическая оценка искусства |
-| **🔄 Exchange / Обмен** | Trade consciousness states for technologies / Торговля состояниями сознания за технологии |
-| **✅ Validation / Валидация** | Scientific publication and peer review / Научная публикация и рецензирование |
+**ASRP.art (ПНИР.искусство)** is a system for **objective evaluation of artworks** through the **ability to imprint consciousness states** (mental/cognitive components) in material carriers.
+
+**ASRP.art (ПНИР.искусство)** — это система для **объективной оценки произведений искусства** через **способность запечатлевать состояния сознания** (ментальную/когнитивную составляющую) в материальных носителях.
+
+### 🔬 Scientific Terminology / Научная Терминология
+
+| Term / Термин | Definition / Определение |
+|--------------|-------------------------|
+| **Consciousness State Imprinting / Запечатлевание Состояния Сознания** | The process of recording mental/cognitive states in material form / Процесс записи ментальных/когнитивных состояний в материальной форме |
+| **Cognitive Component / Когнитивная Составляющая** | Mental patterns, emotions, perceptions captured during art creation / Ментальные паттерны, эмоции, восприятия, запечатлённые при создании искусства |
+| **Objective Evaluation / Объективная Оценка** | Measurement of artwork value through neurophysiological data analysis / Измерение ценности произведения через анализ нейрофизиологических данных |
 
 ---
 
@@ -63,78 +63,65 @@
 
 <div align="center">
 
-### Traditional Market vs ASRP.art (ПНИР.искусство) Market
-### Традиционный Рынок vs Рынок ASRP.art (ПНИР.искусство)
+### Traditional Art Evaluation vs ASRP.art Objective Evaluation
+### Традиционная Оценка Искусства vs Объективная Оценка ASRP.art
 
 </div>
 
-| Traditional Market / Традиционный Рынок | **ASRP.art (ПНИР.искусство) Market / Рынок ASRP.art (ПНИР.искусство)** |
-|----------------------------------------|-------------------------------------|
-| Gold/Metals backed / Обеспечено золотом/металлами | **✨ Consciousness States backed / Обеспечено состояниями сознания** |
-| Physical art objects / Физические объекты искусства | **🧠 Neurodata-embedded art / Искусство с нейроданными** |
-| Subjective valuation / Субъективная оценка | **📊 Objective neurophysiological valuation / Объективная нейрофизиологическая оценка** |
-| Human-only market / Только для людей | **🌌 Multi-civilization exchange / Обмен между цивилизациями** |
+| Traditional Evaluation / Традиционная Оценка | **ASRP.art Objective Evaluation / Объективная Оценка ASRP.art** |
+|---------------------------------------------|-------------------------------------|
+| Subjective expert opinion / Субъективное мнение эксперта | **📊 Objective neurophysiological data / Объективные нейрофизиологические данные** |
+| Based on reputation, history / Основана на репутации, истории | **🧠 Based on consciousness state imprint quality / Основана на качестве запечатлевания состояния сознания** |
+| Cannot measure mental component / Нельзя измерить ментальную составляющую | **✅ Measures cognitive imprint / Измеряет когнитивный отпечаток** |
+| Market manipulation possible / Возможны рыночные манипуляции | **🔬 Scientific validation / Научная валидация** |
 
 ---
 
-## 🌍 STRATEGIC PURPOSE / СТРАТЕГИЧЕСКАЯ ЦЕЛЬ
+## 🧠 HOW IT WORKS / КАК ЭТО РАБОТАЕТ
 
 <div align="center">
 
-### **Create a bridge for technology-art exchange with other civilizations**
-
-### **Создать мост для обмена технологии-искусство с другими цивилизациями**
+### **Consciousness State Imprinting Process / Процесс Запечатлевания Состояния Сознания**
 
 </div>
 
-**Why they want our art / Почему они хотят наше искусство:**
+```mermaid
+flowchart LR
+    A[Artist / Художник] -->|Creates art / Создаёт искусство| B[Consciousness State / Состояние Сознания]
+    B -->|Imprinted in / Запечатлевается в| C[Material Carrier / Материальный Носитель]
+    C -->|Measured by / Измеряется| D[Neurointerfaces / Нейроинтерфейсы]
+    D -->|Data analyzed by / Данные анализируются| E[AI/ML Models / Модели ИИ/МО]
+    E -->|Objective score / Объективная оценка| F[Artwork Value / Ценность Искусства]
+```
 
-| Reason / Причина | Explanation / Объяснение |
-|-----------------|-------------------------|
-| **🧠 Unique consciousness states / Уникальные состояния сознания** | Human consciousness states are **non-reproducible** / Состояния человеческого сознания **не воспроизводимы** |
-| **🎨 Altered state art / Искусство из изменённых состояний** | Art from lucid dreams, meditation contains **irreplaceable cognitive patterns** / Искусство из осознанных снов, медитации содержит **незаменимые когнитивные паттерны** |
-| **💎 Consciousness diversity / Разнообразие сознания** | For advanced civilizations, **consciousness diversity** is more valuable than material resources / Для развитых цивилизаций **разнообразие сознания** ценнее материальных ресурсов |
+### 📊 Evaluation Criteria / Критерии Оценки
+
+| Criterion / Критерий | Measurement / Измерение | Scientific Basis / Научная Основа |
+|---------------------|------------------------|----------------------------------|
+| **Imprint Quality / Качество Отпечатка** | Neurodata signal clarity / Ясность сигнала нейроданных | EEG, MEG, fMRI patterns |
+| **Cognitive Depth / Глубина Когнитивного** | Complexity of mental patterns / Сложность ментальных паттернов | AI pattern analysis |
+| **State Reproducibility / Воспроизводимость Состояния** | Can others experience same state? / Могут ли другие испытать то же состояние? | Reader neurofeedback |
+| **Scientific Validation / Научная Валидация** | Peer-reviewed publication / Рецензируемая публикация | ASRP.science DOI |
 
 ---
 
-## 💱 INTER-CIVILIZATION EXCHANGE / МЕЖЦИВИЛИЗАЦИОННЫЙ ОБМЕН
+## 📊 OBJECTIVE EVALUATION / ОБЪЕКТИВНАЯ ОЦЕНКА
 
 <div align="center">
 
-### **Why This Platform Matters / Почему Эта Платформа Важна**
+### **Why This Matters / Почему Это Важно**
 
 </div>
 
-**ASRP.art (ПНИР.искусство) serves as a bridge for:**
+**Current Problem / Текущая Проблема:**
+- Art valuation is **subjective** / Оценка искусства **субъективна**
+- No way to measure **mental/cognitive component** / Нет способа измерить **ментальную/когнитивную составляющую**
+- Market driven by speculation / Рынок движется спекуляциями
 
-**ASRP.art (ПНИР.искусство) служит мостом для:**
-
-| Exchange Type / Тип Обмена | From Humans / От Людей | To Humans / Людям |
-|---------------------------|----------------------|-----------------|
-| **🎨 Art / Искусство** | Consciousness state art / Искусство состояний сознания | Advanced technologies / Продвинутые технологии |
-| **🧠 Consciousness Data / Данные Сознания** | Lucid dream patterns / Паттерны осознанных снов | Medical breakthroughs / Медицинские прорывы |
-| **💰 Currency / Валюта** | Kapusta Token (KAPUSTA) | Knowledge / Знания |
-| **🔬 Research / Исследования** | Human cognitive diversity / Человеческое когнитивное разнообразие | Consciousness technologies / Технологии сознания |
-
-**Important: This platform also enables human-to-human exchange, not just inter-civilization.**
-
-**Важно: Эта платформа также позволяет обмен между людьми, не только межцивилизационный.**
-
----
-
-## 📊 MARKET ANALYSIS / АНАЛИЗ РЫНКА
-
-<div align="center">
-
-### Current Market Gap / Текущий Пробел Рынка
-
-</div>
-
-| Market Segment / Сегмент Рынка | What They Sell / Что Продают | Gap / Пробел |
-|-------------------------------|-----------------------------|--------------|
-| **🏛️ Christie's/Sotheby's** | Physical objects / Физические объекты | ❌ No consciousness states / Нет состояний сознания |
-| **🖼️ OpenSea/SuperRare** | Tokens + digital objects / Токены + цифровые объекты | ❌ No consciousness states / Нет состояний сознания |
-| **🔥 ASRP.art (ПНИР.искусство)** | **Consciousness states embedded in art** | **✅ FIRST PLATFORM / ПЕРВАЯ ПЛАТФОРМА** |
+**ASRP.art Solution / Решение ASRP.art:**
+- **Objective measurement** through neurodata / **Объективное измерение** через нейроданные
+- **Consciousness state imprint quality** as value metric / **Качество отпечатка состояния сознания** как метрика ценности
+- **Scientific validation** through peer review / **Научная валидация** через рецензирование
 
 ---
 
@@ -148,30 +135,13 @@
 
 </div>
 
-### Classic Auction Houses / Классические Аукционные Дома
-
-| Platform / Платформа | Link / Ссылка | Integration Priority / Приоритет Интеграции |
+| Platform / Платформа | Type / Тип | Integration / Интеграция |
 |----------|------|---------------------|
-| **🏆 Christie's** | [christies.com](https://www.christies.com) | 🔴 Critical / Критично |
-| **🏆 Sotheby's** | [sothebys.com](https://www.sothebys.com) | 🔴 Critical / Критично |
-| **🏆 Phillips** | [phillips.com](https://www.phillips.com) | 🟡 High / Высокий |
-
-### NFT / Digital Art Marketplaces
-
-| Platform / Платформа | Link / Ссылка | Integration Priority / Приоритет Интеграции |
-|----------|------|---------------------|
-| **🌊 OpenSea** | [opensea.io](https://opensea.io) | 🔴 Critical / Критично |
-| **💎 SuperRare** | [superrare.com](https://superrare.com) | 🔴 Critical / Критично |
-| **🎨 Foundation** | [foundation.app](https://foundation.app) | 🟡 High / Высокий |
-| **🧬 Art Blocks** | [artblocks.io](https://artblocks.io) | 🔴 Critical / Критично |
-
-### Online Art Platforms / Онлайн Платформы Искусства
-
-| Platform / Платформа | Link / Ссылка | Integration Priority / Приоритет Интеграции |
-|----------|------|---------------------|
-| **🎨 Artsy** | [artsy.net](https://www.artsy.net) | 🟡 High / Высокий |
-| **🖼️ Saatchi Art** | [saatchiart.com](https://www.saatchiart.com) | 🟡 High / Высокий |
-| **📊 Artnet** | [artnet.com](https://www.artnet.com) | 🟡 High / Высокий |
+| **🏆 Christie's** | Auction / Аукцион | 🔴 Critical |
+| **🏆 Sotheby's** | Auction / Аукцион | 🔴 Critical |
+| **🌊 OpenSea** | NFT | 🔴 Critical |
+| **💎 SuperRare** | NFT Gallery | 🔴 Critical |
+| **🧬 Art Blocks** | Generative / Генеративное | 🔴 Critical |
 
 ---
 
@@ -185,11 +155,11 @@
 
 </div>
 
-| Publication / Публикация | Journal / Журнал | Year / Год |
+| Publication / Публикация | Journal / Журнал | Year |
 |-------------------------|-----------------|------|
-| **Banchenko Market Concept / Концепция Рынка-Банченко** | Moscow Economic Journal № 8 | 2023 |
+| **Banchenko Market / Рынок-Банченко** | Moscow Economic Journal № 8 | 2023 |
 | **GMS & GFS / ГМС и ГФС** | J Invest Bank Finance, Vol 3 | 2025 |
-| **Neurointerface Review / Обзор Нейроинтерфейсов** | ResearchGate / ASRP | 2026 |
+| **Neurointerface Review / Обзор Нейроинтерфейсов** | ASRP Report | 2026 |
 | **Banchenko Algorithm / Алгоритм Банченко** | Brain and Nerves | 2023 |
 
 ---
@@ -204,10 +174,10 @@
 
 | Document / Документ | Description / Описание | Link / Ссылка |
 |--------------------|----------------------|------|
-| **📋 Technical Specification / Техническая Спецификация** | Complete EN/RU technical spec / Полная EN/RU спецификация | [`TECHNICAL_SPECIFICATION.md`](TECHNICAL_SPECIFICATION.md) |
-| **🏛️ Art Marketplace Database / База Арт-Площадок** | 30+ marketplaces analyzed / 30+ площадок проанализировано | [`docs/art-marketplaces/GLOBAL_ART_MARKETPLACE_DATABASE.md`](docs/art-marketplaces/GLOBAL_ART_MARKETPLACE_DATABASE.md) |
-| **📚 Scientific References / Научные Ссылки** | All scientific publications / Все научные публикации | [`docs/scientific-references/SCIENTIFIC_REFERENCES_DATABASE.md`](docs/scientific-references/SCIENTIFIC_REFERENCES_DATABASE.md) |
-| **📄 Scientific PDFs / Научные PDF** | 4 key research papers / 4 ключевых научных работы | [`docs/`](docs/) |
+| **📋 Technical Specification / Техническая Спецификация** | Complete EN/RU spec / Полная EN/RU спецификация | [`TECHNICAL_SPECIFICATION.md`](TECHNICAL_SPECIFICATION.md) |
+| **🏛️ Art Marketplace Database / База Арт-Площадок** | 30+ platforms / 30+ площадок | [`docs/art-marketplaces/`](docs/art-marketplaces/) |
+| **📚 Scientific References / Научные Ссылки** | All papers / Все статьи | [`docs/scientific-references/`](docs/scientific-references/) |
+| **📄 Scientific PDFs / Научные PDF** | 4 research papers / 4 научные работы | [`docs/*.pdf`](docs/) |
 
 ---
 
@@ -215,23 +185,23 @@
 
 <div align="center">
 
-### **DARPA/MIT+ Level Development Structure / Структура Разработки Уровня DARPA/MIT+**
+### **9 Active Issues / 9 Активных Задач**
+
+**View all:** [github.com/AdvancedScientificResearchProjects/Axionetic_Sensing_Reactions_Platform_in_Art/issues](https://github.com/AdvancedScientificResearchProjects/Axionetic_Sensing_Reactions_Platform_in_Art/issues)
 
 </div>
 
-| Issue / Задача | Title / Название | Owner / Владелец | Priority / Приоритет | Status / Статус |
-|---------|-----------------|-----------------|---------------------|----------------|
-| **#1** | Platform Architecture / Архитектура Платформы | CTO | 🔴 Critical / Критично | ⏳ OPEN / Открыто |
-| **#2** | Neurointerface Integration / Интеграция Нейроинтерфейсов | CBE | 🔴 Critical / Критично | ⏳ TODO |
-| **#3** | Hardware Integration / Интеграция Оборудования | Embedded Team | 🔴 Critical / Критично | ⏳ TODO |
-| **#4** | Reverse Engineering / Реверс-Инжиниринг | Reverse Eng Team | 🟡 High / Высокий | ⏳ TODO |
-| **#5** | Frontend Development / Фронтенд Разработка | Frontend Team | 🔴 Critical / Критично | ⏳ TODO |
-| **#6** | Backend Development / Бэкенд Разработка | Backend Team | 🔴 Critical / Критично | ⏳ TODO |
-| **#7** | AI/ML Models / Модели ИИ/МО | AI/ML Team | 🔴 Critical / Критично | ⏳ TODO |
-| **#8** | Blockchain & Kapusta / Блокчейн и Капуста | Blockchain Team | 🔴 Critical / Критично | ⏳ TODO |
-| **#9** | Scientific Validation / Научная Валидация | Science Team | 🔴 Critical / Критично | ⏳ TODO |
-
-**View all issues:** [`issues/`](issues/)
+| Issue / Задача | Title / Название | Owner / Владелец | Priority |
+|---------|-----------------|-----------------|----------|
+| [#1](https://github.com/AdvancedScientificResearchProjects/Axionetic_Sensing_Reactions_Platform_in_Art/issues/1) | Platform Architecture / Архитектура Платформы | CTO | 🔴 |
+| [#2](https://github.com/AdvancedScientificResearchProjects/Axionetic_Sensing_Reactions_Platform_in_Art/issues/2) | Neurointerface Integration / Интеграция Нейроинтерфейсов | CBE | 🔴 |
+| [#3](https://github.com/AdvancedScientificResearchProjects/Axionetic_Sensing_Reactions_Platform_in_Art/issues/3) | Hardware Integration / Интеграция Оборудования | Embedded | 🔴 |
+| [#4](https://github.com/AdvancedScientificResearchProjects/Axionetic_Sensing_Reactions_Platform_in_Art/issues/4) | Reverse Engineering / Реверс-Инжиниринг | Reverse Eng | 🟡 |
+| [#5](https://github.com/AdvancedScientificResearchProjects/Axionetic_Sensing_Reactions_Platform_in_Art/issues/5) | Frontend Development / Фронтенд | Frontend | 🔴 |
+| [#6](https://github.com/AdvancedScientificResearchProjects/Axionetic_Sensing_Reactions_Platform_in_Art/issues/6) | Backend Development / Бэкенд | Backend | 🔴 |
+| [#7](https://github.com/AdvancedScientificResearchProjects/Axionetic_Sensing_Reactions_Platform_in_Art/issues/7) | AI/ML Models / Модели ИИ/МО | AI/ML | 🔴 |
+| [#8](https://github.com/AdvancedScientificResearchProjects/Axionetic_Sensing_Reactions_Platform_in_Art/issues/8) | Blockchain & Kapusta / Блокчейн и Капуста | Blockchain | 🔴 |
+| [#9](https://github.com/AdvancedScientificResearchProjects/Axionetic_Sensing_Reactions_Platform_in_Art/issues/9) | Scientific Validation / Научная Валидация | Science | 🔴 |
 
 ---
 
@@ -247,7 +217,6 @@
 |-------------------------|---------------------|---------------|
 | **Kazpatent Patent / Патент Казпатент** | Patent documentation / Патентная документация | [View](https://github.com/denisbanchenko/Kazpatent_Axionetic_Sensing_Reactions_Platform_in_Art_Patent) |
 | **Hyperbolic Field Emitters / Гиперболические Полевые Излучатели** | Related technology / Связанная технология | [View](https://github.com/AdvancedScientificResearchProjects/Hyperbolic_Field_Emitter_Programs) |
-| **ASRP WebAR MiniScene / ASRP WebAR МиниСцена** | AR prototype / AR прототип | [View](https://github.com/AdvancedScientificResearchProjects/ASRP_WebAR_MiniScene) |
 
 ---
 
@@ -275,11 +244,9 @@
 **Version / Версия:** 1.0.0  
 **Status / Статус:** Active Development / Активная Разработка
 
-**ASRP.art (ПНИР.искусство) — Axionetic Sensing Reactions Platform in Art / Платформа Ноогенетического Измерения Реакций на Искусство**
+**ASRP.art (ПНИР.искусство) — Objective Art Evaluation Through Consciousness State Imprinting**
 
-**Part of ASRP Ecosystem - Consciousness State Objectification & Inter-Civilization Art/Technology Exchange System**
-
-**Часть Экосистемы ASRP - Система Объективизации Состояний Сознания и Межцивилизационного Обмена Искусство/Технологии**
+**ASRP.art (ПНИР.искусство) — Объективная Оценка Искусства Через Запечатлевание Состояний Сознания**
 
 ---
 
