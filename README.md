@@ -1,5 +1,5 @@
-# 🧠 ASRP.art — Axionetic Sensing Reactions Platform in Art
-# 🧠 ПНИР.искусство — Платформа Ноогенетического Измерения Реакций на Искусство
+# ASRP.art — Axionetic Sensing Reactions Platform in Art
+# ПНИР.искусство — Платформа Ноогенетического Измерения Реакций на Искусство
 
 <div align="center">
 
@@ -20,22 +20,22 @@
 
 ---
 
-## 📖 TABLE OF CONTENTS / СОДЕРЖАНИЕ
+## TABLE OF CONTENTS / СОДЕРЖАНИЕ
 
-- [🎯 System Purpose / Назначение Системы](#-system-purpose--назначение-системы)
-- [🔥 Key Innovation / Ключевая Инновация](#-key-innovation--ключевая-инновация)
-- [🧠 How It Works / Как Это Работает](#-how-it-works--как-это-работает)
-- [📊 Objective Evaluation / Объективная Оценка](#-objective-evaluation--объективная-оценка)
-- [🏛️ Art Marketplaces / Арт-Площадки](#-art-marketplaces--арт-площадки)
-- [📚 Scientific Foundation / Научная Основа](#-scientific-foundation--научная-основа)
-- [📁 Documentation / Документация](#-documentation--документация)
-- [🎯 Development Issues / Задачи Разработки](#-development-issues--задачи-разработки)
-- [🔗 Related Repositories / Связанные Репозитории](#-related-repositories--связанные-репозитории)
-- [📞 Contact / Контакты](#-contact--контакты)
+- [System Purpose / Назначение Системы](#system-purpose--назначение-системы)
+- [Key Innovation / Ключевая Инновация](#key-innovation--ключевая-инновация)
+- [How It Works / Как Это Работает](#how-it-works--как-это-работает)
+- [Objective Evaluation / Объективная Оценка](#objective-evaluation--объективная-оценка)
+- [Art Marketplaces / Арт-Площадки](#art-marketplaces--арт-площадки)
+- [Scientific Foundation / Научная Основа](#scientific-foundation--научная-основа)
+- [Documentation / Документация](#documentation--документация)
+- [Development Issues / Задачи Разработки](#development-issues--задачи-разработки)
+- [Related Repositories / Связанные Репозитории](#asrp-ecosystem--экосистема-asrp)
+- [Contact / Контакты](#contact--контакты)
 
 ---
 
-## 🎯 SYSTEM PURPOSE / НАЗНАЧЕНИЕ СИСТЕМЫ
+## SYSTEM PURPOSE / НАЗНАЧЕНИЕ СИСТЕМЫ
 
 <div align="center">
 
@@ -49,7 +49,7 @@
 
 **ASRP.art (ПНИР.искусство)** — это система для **объективной оценки произведений искусства** через **способность запечатлевать состояния сознания** (ментальную/когнитивную составляющую) в материальных носителях.
 
-### 🔬 Scientific Terminology / Научная Терминология
+### Scientific Terminology / Научная Терминология
 
 | Term / Термин | Definition / Определение |
 |--------------|-------------------------|
@@ -59,7 +59,7 @@
 
 ---
 
-## 🔥 KEY INNOVATION / КЛЮЧЕВАЯ ИННОВАЦИЯ
+## KEY INNOVATION / КЛЮЧЕВАЯ ИННОВАЦИЯ
 
 <div align="center">
 
@@ -70,14 +70,14 @@
 
 | Traditional Evaluation / Традиционная Оценка | **ASRP.art Objective Evaluation / Объективная Оценка ASRP.art** |
 |---------------------------------------------|-------------------------------------|
-| Subjective expert opinion / Субъективное мнение эксперта | **📊 Objective neurophysiological data / Объективные нейрофизиологические данные** |
-| Based on reputation, history / Основана на репутации, истории | **🧠 Based on consciousness state imprint quality / Основана на качестве запечатлевания состояния сознания** |
-| Cannot measure mental component / Нельзя измерить ментальную составляющую | **✅ Measures cognitive imprint / Измеряет когнитивный отпечаток** |
-| Market manipulation possible / Возможны рыночные манипуляции | **🔬 Scientific validation / Научная валидация** |
+| Subjective expert opinion / Субъективное мнение эксперта | **Objective neurophysiological data / Объективные нейрофизиологические данные** |
+| Based on reputation, history / Основана на репутации, истории | **Based on consciousness state imprint quality / Основана на качестве запечатлевания состояния сознания** |
+| Cannot measure mental component / Нельзя измерить ментальную составляющую | **Measures cognitive imprint / Измеряет когнитивный отпечаток** |
+| Market manipulation possible / Возможны рыночные манипуляции | **Scientific validation / Научная валидация** |
 
 ---
 
-## 🧠 HOW IT WORKS / КАК ЭТО РАБОТАЕТ
+## HOW IT WORKS / КАК ЭТО РАБОТАЕТ
 
 <div align="center">
 
@@ -94,7 +94,7 @@ flowchart LR
     E -->|Objective score / Объективная оценка| F[Artwork Value / Ценность Искусства]
 ```
 
-### 📊 Carrier Types / Типы Носителей
+### Carrier Types / Типы Носителей
 
 | Type / Тип | Examples / Примеры | Measurement / Измерение |
 |-----------|-------------------|------------------------|
@@ -103,7 +103,7 @@ flowchart LR
 | **Energetic / Энергетический** | EM fields, quantum states / ЭМ поля, квантовые состояния | EMF measurement, quantum sensors |
 | **Informational / Информационный** | Consciousness patterns / Паттерны сознания | AI pattern analysis |
 
-### 📊 Evaluation Criteria / Критерии Оценки
+### Evaluation Criteria / Критерии Оценки
 
 | Criterion / Критерий | Measurement / Измерение | Scientific Basis / Научная Основа |
 |---------------------|------------------------|----------------------------------|
@@ -114,7 +114,7 @@ flowchart LR
 
 ---
 
-## 📊 OBJECTIVE EVALUATION / ОБЪЕКТИВНАЯ ОЦЕНКА
+## OBJECTIVE EVALUATION / ОБЪЕКТИВНАЯ ОЦЕНКА
 
 <div align="center">
 
@@ -134,7 +134,7 @@ flowchart LR
 
 ---
 
-## 🏛️ ART MARKETPLACES / АРТ-ПЛОЩАДКИ
+## ART MARKETPLACES / АРТ-ПЛОЩАДКИ
 
 <div align="center">
 
@@ -146,15 +146,15 @@ flowchart LR
 
 | Platform / Платформа | Type / Тип | Integration / Интеграция |
 |----------|------|---------------------|
-| **🏆 Christie's** | Auction / Аукцион | 🔴 Critical |
-| **🏆 Sotheby's** | Auction / Аукцион | 🔴 Critical |
-| **🌊 OpenSea** | NFT | 🔴 Critical |
-| **💎 SuperRare** | NFT Gallery | 🔴 Critical |
-| **🧬 Art Blocks** | Generative / Генеративное | 🔴 Critical |
+| **Christie's** | Auction / Аукцион | Critical |
+| **Sotheby's** | Auction / Аукцион | Critical |
+| **OpenSea** | NFT | Critical |
+| **SuperRare** | NFT Gallery | Critical |
+| **Art Blocks** | Generative / Генеративное | Critical |
 
 ---
 
-## 📚 SCIENTIFIC FOUNDATION / НАУЧНАЯ ОСНОВА
+## SCIENTIFIC FOUNDATION / НАУЧНАЯ ОСНОВА
 
 <div align="center">
 
@@ -173,7 +173,7 @@ flowchart LR
 
 ---
 
-## 📁 DOCUMENTATION / ДОКУМЕНТАЦИЯ
+## DOCUMENTATION / ДОКУМЕНТАЦИЯ
 
 <div align="center">
 
@@ -183,14 +183,14 @@ flowchart LR
 
 | Document / Документ | Description / Описание | Link / Ссылка |
 |--------------------|----------------------|------|
-| **📋 Technical Specification / Техническая Спецификация** | Complete EN/RU spec / Полная EN/RU спецификация | [`TECHNICAL_SPECIFICATION.md`](TECHNICAL_SPECIFICATION.md) |
-| **🏛️ Art Marketplace Database / База Арт-Площадок** | 30+ platforms / 30+ площадок | [`docs/art-marketplaces/`](docs/art-marketplaces/) |
-| **📚 Scientific References / Научные Ссылки** | All papers / Все статьи | [`docs/scientific-references/`](docs/scientific-references/) |
-| **📄 Scientific PDFs / Научные PDF** | 4 research papers / 4 научные работы | [`docs/*.pdf`](docs/) |
+| **Technical Specification / Техническая Спецификация** | Complete EN/RU spec / Полная EN/RU спецификация | [`TECHNICAL_SPECIFICATION.md`](TECHNICAL_SPECIFICATION.md) |
+| **Art Marketplace Database / База Арт-Площадок** | 30+ platforms / 30+ площадок | [`docs/art-marketplaces/`](docs/art-marketplaces/) |
+| **Scientific References / Научные Ссылки** | All papers / Все статьи | [`docs/scientific-references/`](docs/scientific-references/) |
+| **Scientific PDFs / Научные PDF** | 4 research papers / 4 научные работы | [`docs/*.pdf`](docs/) |
 
 ---
 
-## 🎯 DEVELOPMENT ISSUES / ЗАДАЧИ РАЗРАБОТКИ
+## DEVELOPMENT ISSUES / ЗАДАЧИ РАЗРАБОТКИ
 
 <div align="center">
 
@@ -202,34 +202,80 @@ flowchart LR
 
 | Issue / Задача | Title / Название | Owner / Владелец | Priority |
 |---------|-----------------|-----------------|----------|
-| [#1](https://github.com/AdvancedScientificResearchProjects/Axionetic_Sensing_Reactions_Platform_in_Art/issues/1) | Platform Architecture / Архитектура Платформы | CTO | 🔴 |
-| [#2](https://github.com/AdvancedScientificResearchProjects/Axionetic_Sensing_Reactions_Platform_in_Art/issues/2) | Neurointerface Integration / Интеграция Нейроинтерфейсов | CBE | 🔴 |
-| [#3](https://github.com/AdvancedScientificResearchProjects/Axionetic_Sensing_Reactions_Platform_in_Art/issues/3) | Hardware Integration / Интеграция Оборудования | Embedded | 🔴 |
-| [#4](https://github.com/AdvancedScientificResearchProjects/Axionetic_Sensing_Reactions_Platform_in_Art/issues/4) | Reverse Engineering / Реверс-Инжиниринг | Reverse Eng | 🟡 |
-| [#5](https://github.com/AdvancedScientificResearchProjects/Axionetic_Sensing_Reactions_Platform_in_Art/issues/5) | Frontend Development / Фронтенд | Frontend | 🔴 |
-| [#6](https://github.com/AdvancedScientificResearchProjects/Axionetic_Sensing_Reactions_Platform_in_Art/issues/6) | Backend Development / Бэкенд | Backend | 🔴 |
-| [#7](https://github.com/AdvancedScientificResearchProjects/Axionetic_Sensing_Reactions_Platform_in_Art/issues/7) | AI/ML Models / Модели ИИ/МО | AI/ML | 🔴 |
-| [#8](https://github.com/AdvancedScientificResearchProjects/Axionetic_Sensing_Reactions_Platform_in_Art/issues/8) | Blockchain & Kapusta / Блокчейн и Капуста | Blockchain | 🔴 |
-| [#9](https://github.com/AdvancedScientificResearchProjects/Axionetic_Sensing_Reactions_Platform_in_Art/issues/9) | Scientific Validation / Научная Валидация | Science | 🔴 |
+| [#1](https://github.com/AdvancedScientificResearchProjects/Axionetic_Sensing_Reactions_Platform_in_Art/issues/1) | Platform Architecture / Архитектура Платформы | CTO | |
+| [#2](https://github.com/AdvancedScientificResearchProjects/Axionetic_Sensing_Reactions_Platform_in_Art/issues/2) | Neurointerface Integration / Интеграция Нейроинтерфейсов | CBE | |
+| [#3](https://github.com/AdvancedScientificResearchProjects/Axionetic_Sensing_Reactions_Platform_in_Art/issues/3) | Hardware Integration / Интеграция Оборудования | Embedded | |
+| [#4](https://github.com/AdvancedScientificResearchProjects/Axionetic_Sensing_Reactions_Platform_in_Art/issues/4) | Reverse Engineering / Реверс-Инжиниринг | Reverse Eng | |
+| [#5](https://github.com/AdvancedScientificResearchProjects/Axionetic_Sensing_Reactions_Platform_in_Art/issues/5) | Frontend Development / Фронтенд | Frontend | |
+| [#6](https://github.com/AdvancedScientificResearchProjects/Axionetic_Sensing_Reactions_Platform_in_Art/issues/6) | Backend Development / Бэкенд | Backend | |
+| [#7](https://github.com/AdvancedScientificResearchProjects/Axionetic_Sensing_Reactions_Platform_in_Art/issues/7) | AI/ML Models / Модели ИИ/МО | AI/ML | |
+| [#8](https://github.com/AdvancedScientificResearchProjects/Axionetic_Sensing_Reactions_Platform_in_Art/issues/8) | Blockchain & Kapusta / Блокчейн и Капуста | Blockchain | |
+| [#9](https://github.com/AdvancedScientificResearchProjects/Axionetic_Sensing_Reactions_Platform_in_Art/issues/9) | Scientific Validation / Научная Валидация | Science | |
 
 ---
 
-## 🔗 RELATED REPOSITORIES / СВЯЗАННЫЕ РЕПОЗИТОРИИ
+## DATA STRUCTURE / СТРУКТУРА ДАННЫХ
+
+```
+Axionetic_Sensing_Reactions_Platform_in_Art/
+│
+├── README.md # Main documentation / Главная документация
+├── TECHNICAL_SPECIFICATION.md # Technical spec EN/RU / Техническая спецификация
+│
+├── docs/ # Documentation / Документация
+│ ├── art-marketplaces/ # Art marketplace database / База арт-площадок
+│ │ └── GLOBAL_ART_MARKETPLACE_DATABASE.md # 30+ platforms / 30+ площадок
+│ ├── scientific-references/ # Scientific papers / Научные статьи
+│ │ └── SCIENTIFIC_REFERENCES_DATABASE.md # References DB / База ссылок
+│ ├── SCIENTIFIC_TERMINOLOGY_REFINEMENT_EN_RU.md # Terminology / Терминология
+│ ├── 2023-Moscow-Economic-Journal_...pdf # Banchenko Market paper
+│ ├── 2024-Russian-Gallery-XXI-Century_...pdf # Art Market paper
+│ ├── 2025-J-Invest-Bank-Finance_...pdf # GMS/GFS paper
+│ └── 2026-ASRP_Technological-Review-BCI_...pdf # BCI Review
+│
+└── issues/ # Issue documentation / Документация задач
+    └── cto/ # CTO issues / Задачи CTO
+        ├── ISSUE-001-PLATFORM-ARCHITECTURE.md
+        └── ISSUE-001-PLATFORM-ARCHITECTURE_EN_RU.md
+```
+
+---
+
+## ASRP ECOSYSTEM / ЭКОСИСТЕМА ASRP
 
 <div align="center">
 
-### **ASRP Ecosystem / Экосистема ASRP**
+### Related Research Repositories / Связанные Исследовательские Репозитории
 
 </div>
 
-| Repository / Репозиторий | Purpose / Назначение | Link / Ссылка |
-|-------------------------|---------------------|---------------|
-| **Kazpatent Patent / Патент Казпатент** | Patent documentation / Патентная документация | [View](https://github.com/denisbanchenko/Kazpatent_Axionetic_Sensing_Reactions_Platform_in_Art_Patent) |
-| **Hyperbolic Field Emitters / Гиперболические Полевые Излучатели** | Related technology / Связанная технология | [View](https://github.com/AdvancedScientificResearchProjects/Hyperbolic_Field_Emitter_Programs) |
+| Repository / Репозиторий | Direction / Направление | Link / Ссылка |
+|-------------------------|------------------------|---------------|
+| **Hyperbolic Field Blood Plasma Study** | Blood plasma coagulation / Свёртываемость плазмы | [View / Просмотр](https://github.com/AdvancedScientificResearchProjects/Hyperbolic_Field_BloodPlasma_Study) |
+| **Hyperbolic Field Agricultural Study** | Plant & seed growth / Рост растений и семян | [View / Просмотр](https://github.com/AdvancedScientificResearchProjects/Hyperbolic_Field_Agricultural_Study) |
+| **Hyperbolic Field DAAT Crystal Study** | Crystal-human interaction / Взаимодействие кристалл-человек | [View / Просмотр](https://github.com/AdvancedScientificResearchProjects/Hyperbolic_Field_DAAT_Crystal_Study) |
+| **Hyperbolic Field Saccharomyces Study** | Yeast fermentation / Ферментация дрожжей | [View / Просмотр](https://github.com/AdvancedScientificResearchProjects/Hyperbolic_Field_SaccharomycesCerevisiae_Study) |
+| **UAP Reverse Engineering Study** | UAP analysis / Анализ НЛО | [View / Просмотр](https://github.com/AdvancedScientificResearchProjects/UAP_Reverse_Engineering_Study) |
+| **PLFM RADAR** | Phased array radar / Фазированная антенная решётка | [View / Просмотр](https://github.com/AdvancedScientificResearchProjects/PLFM_RADAR) |
+
+<div align="center">
+
+### Patent Portfolio / Патентный Портфель
+
+</div>
+
+| Patent / Патент | Application / Заявка | Link / Ссылка |
+|----------------|---------------------|---------------|
+| **ASRP.art / ПНИР.искусство** | KZ 2025/0592.1 + PCT/KZ2026/000010 | [View / Просмотр](https://github.com/denisbanchenko/Kazpatent_Axionetic_Sensing_Reactions_Platform_in_Art_Patent) |
+| **Fractal Biomedical System / Фрактальная Биомедицинская Система** | KZ 2025/1095.1 | [View / Просмотр](https://github.com/denisbanchenko/Kazpatent_Fractal_Biomedical_System_Patent) |
+| **ASRP.drift / ПНИР.дрифт** | KZ 413554 | [View / Просмотр](https://github.com/denisbanchenko/Kazpatent_Advanced_Synchro_Resonance_Platform_For_Deep_Resonant_Patent) |
+| **GFS / ГСП** | KZ 2025/1096.1 | [View / Просмотр](https://github.com/denisbanchenko/Kazpatent_Global_Forecasting_System_Patent) |
+| **Biophotonic / Биофотонная** | KZ 2025/1097.1 | [View / Просмотр](https://github.com/denisbanchenko/Kazpatent_Biophotonic_Neurodiagnostic_System_Patent) |
+| **Inspira-X** | KZ 2025/0914.1 | [View / Просмотр](https://github.com/denisbanchenko/Kazpatent_Inspira-X_Respiratory_Analysis_Patent) |
 
 ---
 
-## 📞 CONTACT / КОНТАКТЫ
+## CONTACT / КОНТАКТЫ
 
 <div align="center">
 
@@ -249,8 +295,8 @@ flowchart LR
 
 ---
 
-**Last Updated / Последнее обновление:** 23 March 2026  
-**Version / Версия:** 1.0.0  
+**Last Updated / Последнее обновление:** 23 March 2026 
+**Version / Версия:** 1.0.0 
 **Status / Статус:** Active Development / Активная Разработка
 
 **ASRP.art (ПНИР.искусство) — Objective Art Evaluation Through Consciousness State Imprinting**
@@ -262,3 +308,9 @@ flowchart LR
 *This repository is part of the Advanced Scientific Research Projects (ASRP) ecosystem. All rights reserved.*
 
 </div>
+
+---
+
+## NAVIGATION INDEX / НАВИГАЦИОННЫЙ ИНДЕКС
+
+[System Purpose / Назначение](#system-purpose--назначение-системы) · [Key Innovation / Инновация](#key-innovation--ключевая-инновация) · [How It Works / Как Работает](#how-it-works--как-это-работает) · [Objective Evaluation / Оценка](#objective-evaluation--объективная-оценка) · [Art Marketplaces / Площадки](#art-marketplaces--арт-площадки) · [Scientific Foundation / Наука](#scientific-foundation--научная-основа) · [Documentation / Документация](#documentation--документация) · [Issues / Задачи](#development-issues--задачи-разработки) · [Data Structure / Структура](#data-structure--структура-данных) · [ASRP Ecosystem / Экосистема](#asrp-ecosystem--экосистема-asrp) · [Contact / Контакты](#contact--контакты)
